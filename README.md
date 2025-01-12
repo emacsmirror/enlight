@@ -1,4 +1,4 @@
-# `enlight`
+<div align="center"><img width="250em" src="gallery/logo.svg"/></div>
 
 Highly customizable startup screen for Emacs.
 
@@ -17,6 +17,7 @@ TOC
 - [Usage](#usage)
 - [Screenshots and configuration examples](#screenshots-and-configuration-examples)
 - [For evil users](#for-evil-users)
+- [Thanks](#thanks)
 
 ## Installation
 
@@ -230,5 +231,7 @@ This package does not work properly in evil mode. Feel free to send a PR to
 evil-collection. I have no any experience either in using evil mode or writing
 evil integrations.
 
+## Thanks
 
-Thanks to @a13 and @progfolio for code review.
+- Thanks to [a13](https://github.com/a13) and [progfolio](https://github.com/progfolio) for code review.
+- Thanks to [G-LDM-N](https://github.com/G-LDM-N) for the logo
